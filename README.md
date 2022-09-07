@@ -13,3 +13,4 @@ Exploration on airbnb house price.
 
 <img src="./airbnb_price_by_location.png">
 <img src="./room_type_distribution_ny.png">
+<img src="./neighbourhood_group_count_bar.png">
